@@ -1,4 +1,4 @@
-This a an Apple shortcut you can install and use on iOS and iPadOS (and maybe other Apple devices idk).
+This is an Apple shortcut you can install and use on iOS and iPadOS (and maybe other Apple devices idk).
 
 Its a shortcut that lets you copy the Spotify URL for any song, album or record you find on Apple Music. this is perfect for sharing music with people that use Spotify and not Apple Music (for some reason) as it easily lets them listen to the music you share with them with a single tap.
 
